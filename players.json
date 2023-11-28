@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png",
+        "name": "Trae Young",
+        "team": "Atlanta Hawks"
+    },
+
+    {
+        "id": 2,
+        "image": "https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png",
+        "name": "Lauri Markannen",
+        "team": "Utah Jazz"
+    },
+
+    {
+        "id": 3,
+        "image": "images/kd.png",
+        "name": "Kevin Durant",
+        "team": "Phoenix Suns"
+    }
+]
